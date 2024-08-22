@@ -1,0 +1,43 @@
+10:24:34.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\EI13593\OneDrive - Tietoevry\Eclipse workplace\OpenCart\group.xml
+
+10:24:40.531 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001 ***
+10:24:40.710 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+10:24:41.566 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on register***
+10:24:41.571 [main] INFO  testCases.TC001_AccountRegistrationTest - ***providing all details***
+10:24:44.283 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating message***
+10:24:44.364 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test case finished***
+10:24:48.474 [main] INFO  testCases.TC002_LoginTest - *** starting TC002  LoginTest***
+10:24:48.618 [main] INFO  testCases.TC002_LoginTest - *** clicked on my account ***
+10:24:48.906 [main] INFO  testCases.TC002_LoginTest - *** clicked on my login ***
+10:24:50.246 [main] INFO  testCases.TC002_LoginTest - *** finsihed TC002  LoginTest***
+10:34:33.927 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001 ***
+10:34:34.116 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+10:34:35.402 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on register***
+10:34:35.406 [main] INFO  testCases.TC001_AccountRegistrationTest - ***providing all details***
+10:34:38.307 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating message***
+10:34:38.388 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test case finished***
+10:34:43.618 [main] INFO  testCases.TC002_LoginTest - *** starting TC002  LoginTest***
+10:34:43.767 [main] INFO  testCases.TC002_LoginTest - *** clicked on my account ***
+10:34:44.397 [main] INFO  testCases.TC002_LoginTest - *** clicked on my login ***
+10:34:46.394 [main] INFO  testCases.TC002_LoginTest - *** finsihed TC002  LoginTest***
+10:35:50.208 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001 ***
+10:35:50.375 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+10:35:51.241 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on register***
+10:35:51.248 [main] INFO  testCases.TC001_AccountRegistrationTest - ***providing all details***
+10:35:54.194 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating message***
+10:35:54.282 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test case finished***
+10:36:00.262 [main] INFO  testCases.TC002_LoginTest - *** starting TC002  LoginTest***
+10:36:00.388 [main] INFO  testCases.TC002_LoginTest - *** clicked on my account ***
+10:36:00.952 [main] INFO  testCases.TC002_LoginTest - *** clicked on my login ***
+10:36:02.915 [main] INFO  testCases.TC002_LoginTest - *** finsihed TC002  LoginTest***
+10:45:47.425 [main] INFO  testCases.TC001_AccountRegistrationTest - *** starting TC001 ***
+10:45:47.644 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on my account ***
+10:45:48.512 [main] INFO  testCases.TC001_AccountRegistrationTest - *** clicked on register***
+10:45:48.517 [main] INFO  testCases.TC001_AccountRegistrationTest - ***providing all details***
+10:45:51.102 [main] INFO  testCases.TC001_AccountRegistrationTest - *** validating message***
+10:45:51.190 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Test case finished***
+10:45:56.403 [main] INFO  testCases.TC002_LoginTest - *** starting TC002  LoginTest***
+10:45:56.558 [main] INFO  testCases.TC002_LoginTest - *** clicked on my account ***
+10:45:57.077 [main] INFO  testCases.TC002_LoginTest - *** clicked on my login ***
+10:45:58.879 [main] INFO  testCases.TC002_LoginTest - *** finsihed TC002  LoginTest***
