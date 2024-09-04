@@ -72,7 +72,7 @@ public Properties p;
 			case "edge":cap.setBrowserName("MicrosoftEdge");break;
 			default:return;
 			}
-			driver=new RemoteWebDriver(new URL("http://192.168.0.119:4444/wd/hub"),cap);
+			driver=new RemoteWebDriver(new URL("http://10.11.204.58:4444/wd/hub"),cap);
 
 		}
 				
